@@ -13,7 +13,7 @@ ENTRY_HORARIOS = "entry.1222451054"
 st.set_page_config(page_title="Liceo IEP - Horarios", page_icon="📅", layout="wide")
 
 # --- TÍTULO Y DESCRIPCIÓN ---
-st.title("📅 Selección Disponibilidad de Horas Liceo IEP")
+st.title("📅 Disponibilidad horas docente Liceo IEP")
 st.info("ℹ️ **Nota importante:** Las horas seleccionadas son las que tiene disponible para ser asignadas.")
 st.markdown("---")
 
