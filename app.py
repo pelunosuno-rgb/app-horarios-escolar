@@ -13,7 +13,7 @@ ENTRY_HORARIOS = "entry.1222451054"
 st.set_page_config(page_title="Liceo IEP - Horarios", page_icon="📅", layout="wide")
 
 # --- TÍTULO Y DESCRIPCIÓN ---
-st.title("📅 Disponibilidad de horas docentes - IEP -import streamlit as st
+st.title("📅 Disponibilidad de horas docentes -import streamlit as st
 import pandas as pd
 import requests
 
